@@ -1,4 +1,5 @@
-# Here are the resources I used in order to assist with the development of this repo.
+# Resources: 
+Here are the resources I used in order to assist with the development of this repo.
 
 I used [crontab.guru](https://crontab.guru/) as a way to easily create the code used in crontab.md
 
