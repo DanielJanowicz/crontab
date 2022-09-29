@@ -1,5 +1,4 @@
 ## Crontab code assuming it is being launched from a VM:
-*** 
 ### ***This code pulls data down once a day***
 > 0 0 * * * /usr/bin/python3 /home/daniel/crontab/main.py       
 > 
