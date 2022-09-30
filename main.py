@@ -10,6 +10,9 @@ import time
 df = pd.read_json('https://pomber.github.io/covid19/timeseries.json')
 df
 
+## Saving data locally
+df.to_csv('data/covid19daily.csv', index=None)
+
 ## Getting the time on the system
 currentTime = time.time()
 listTime = time.strftime("%Y-%m-%d_%H:%M:%S", time.localtime(currentTime))

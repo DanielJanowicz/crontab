@@ -12,3 +12,7 @@ This markdown file displays the code for three different ways of running the mai
 ## resources.md
 
 This is just another markdown file that houses the resources used in this repo.  This is primarily meant to refer back to in the future, or others can utilize it for their own repo.
+
+## setup.md
+
+This markdown file shows step-by-step how to deploy the code onto a virtual machine of your choice.
